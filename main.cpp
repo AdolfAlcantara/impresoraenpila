@@ -21,7 +21,8 @@ int main()
                 {
                     string oracion;
                     cout<<"Escriba lo que desea imprimir: \n"<<endl;
-                    cin>>oracion;
+                    cin.get();
+                    getline(cin,oracion);
                     impresora1->solicitar(new Orden(oracion));
                     break;
                 }
