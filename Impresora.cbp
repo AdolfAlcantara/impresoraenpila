@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Orden.cpp" />
+		<Unit filename="Orden.h" />
+		<Unit filename="impresora.cpp" />
+		<Unit filename="impresora.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

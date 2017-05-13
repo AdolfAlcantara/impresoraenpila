@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1493771964 source:c:\users\chronos-laptop\documents\ed1\impresora\main.cpp
+1493932761 source:c:\users\chronos-laptop\documents\ed1\impresora\main.cpp
 	<iostream>
 	"impresora.h"
 
@@ -14,5 +14,22 @@
 	"impresora.h"
 
 1493768155 source:c:\users\chronos-laptop\documents\ed1\impresora\src\orden.cpp
+	"Orden.h"
+
+1493769112 source:c:\users\chronos-laptop\documents\ed1\impresora\include\impresora.h
+	"Orden.h"
+	<iostream>
+
+1493933504 source:c:\users\chronos-laptop\documents\ed1\impresora\impresora.cpp
+	"impresora.h"
+
+1493933566 c:\users\chronos-laptop\documents\ed1\impresora\impresora.h
+	"Orden.h"
+	<iostream>
+
+1493933567 c:\users\chronos-laptop\documents\ed1\impresora\orden.h
+	<iostream>
+
+1493933464 source:c:\users\chronos-laptop\documents\ed1\impresora\orden.cpp
 	"Orden.h"
 
